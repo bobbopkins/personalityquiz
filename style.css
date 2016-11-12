@@ -1,0 +1,22 @@
+body {
+	background-color: rgb(153,153,102);
+	font-family: comic sans ms
+}
+
+h1 {
+	color: rgb(102, 0, 51);
+	text-align: center;
+}
+
+p {
+	color: rgb(51, 102, 204);
+}
+
+.button {
+	border: solid;
+	border-radius: 50%;
+	border-color: rgb(0, 0, 102);
+	padding: 50px;
+	font-size: 50px;
+	color: rgb(102, 51, 0)
+}
